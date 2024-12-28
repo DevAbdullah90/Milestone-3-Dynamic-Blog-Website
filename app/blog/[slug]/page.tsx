@@ -123,7 +123,7 @@ const BlogPost = () => {
                 </div>
               ))
             ) : (
-              <p className="text-gray-500">No comments yet. Be the first to comment!</p>
+              <p className="text-gray-500">We want to know your thoughts about this blog!!</p>
             )}
           </div>
           {/* Add Comment Input */}
